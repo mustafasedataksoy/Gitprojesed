@@ -7,5 +7,7 @@ public class Ogrenci {
         System.out.println("merhaba 3");
         System.out.println("merhaba 4");
         System.out.println("mer 1");
+
+        System.out.println("dünya 1 ");
     }
 }
